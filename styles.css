@@ -1,0 +1,70 @@
+body{
+    margin: 0;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    background-image: url(./img/Wave\.svg);
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+html {
+    height: 100%;
+}
+#main {
+    width: 626px; 
+    margin: auto;   
+}
+#imagem {
+    margin: 64px;
+}
+h1 {
+    font-family: 'Dosis', sans-serif;
+    font-weight: 500;
+    font-size: 32px;
+    color: #3F3D56;
+    line-height: 40.45px;
+    margin-bottom:16px;
+}
+.preços-arrasadores {
+    margin-bottom: 32px;
+}
+.ofertas {
+    line-height: 20px;
+}
+p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    color: #828282;
+    line-height: 22px;
+    width: 540px;
+    margin: auto;
+}
+strong {
+    color: #3F3D56;
+    font-weight: 700;
+    line-height: 22px;
+}
+span {
+    color: #EE24FF;  
+    font-weight: 700;  
+}
+
+#line {
+    border-top: 1px solid #ECEFF2;
+    width: 626px;
+    height: 0;
+    margin: 64px auto 16px;
+}
+#footer a + a {
+    margin-left: 28px;
+}
+a {    
+    font-family: 'Open Sans', sans-serif;
+    color: #3F3D56;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 147.68%;
+    text-decoration: none;
+}
+
